@@ -135,7 +135,7 @@ The dashboard helps answer important business questions such as:
 
 ### Segmentation & Performance Analysis
 
-![Segmentation Analysis](images/segmentation_analysis.png)
+![Segmentation Analysis](Screenshots/segmentation_analysis.png)
 
 ---
 
