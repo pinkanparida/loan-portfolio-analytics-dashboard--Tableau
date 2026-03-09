@@ -131,7 +131,7 @@ The dashboard helps answer important business questions such as:
 
 ### Portfolio Overview
 
-![Portfolio Overview](images/dashboard_overview.png)
+dashboard_overview.png
 
 ### Segmentation & Performance Analysis
 
