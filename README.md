@@ -1,4 +1,4 @@
-# 🏦 loan-portfolio-analytics-dashboard--Tableau
+# 🏦 Loan Portfolio Analytics Dashboard--Tableau
 
 This project presents an interactive loan portfolio analytics dashboard built using **Tableau**. The dashboard provides insights into loan disbursement, repayment performance, borrower segmentation, and portfolio risk indicators.
 
